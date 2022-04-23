@@ -18,7 +18,7 @@
 
   [![profile](https://github-readme-stats.vercel.app/api?username=superatomic&theme=calm&border_radius=18&hide=stars&show_icons=true&count_private=true)](https://github.com/superatomic)
 
-  [![languages](https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&show_icons=true&count_private=true&theme=calm&border_radius=18&layout=compact)](https://github.com/superatomic)
+  [![languages](https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&count_private=true&theme=calm&border_radius=18&layout=compact)](https://github.com/superatomic)
 
 </div>
 
