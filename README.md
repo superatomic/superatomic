@@ -3,12 +3,12 @@
 [![languages](https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&theme=calm&border_radius=18&layout=compact&bg_color=0000&hide_border=true)](https://github.com/superatomic)
 
 **Hi, I’m @superatomic!**
-- I know a lot of Python, and various other programming languages.
+- I know *a lot* of Python 3, and various other programming languages.
 - Currently, I've been working with Rust.
-  Check out my new command line tool [Xshe],
-  written fully in Rust!
+  **Check out my new command line tool [Xshe],
+  written fully in Rust!**
 - I use Unix-based OSs.
-- I’m currently learning Scala and Rust.
+- I’m currently learning and working with Scala and Rust.
   - Pattern matching is the best thing ever.
 - I’m looking to collaborate on various FOSS projects.
 
