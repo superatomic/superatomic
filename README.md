@@ -8,9 +8,10 @@
   Check out my new command line tool [Xshe],
   written fully in Rust!
 - I’m interested in a whole bunch of stuff.
+- I use Unix-based OSs.
 - I’m currently learning Scala and Rust.
   - Pattern matching is the best thing ever.
-- I’m looking to collaborate on various projects.
+- I’m looking to collaborate on various FOSS projects.
 
 <div align=center>
 
