@@ -1,8 +1,6 @@
-<div align=center>
+[![profile](https://github-readme-stats.vercel.app/api?username=superatomic&theme=calm&border_radius=18&hide=stars&show_icons=true&count_private=true&bg_color=0000&hide_border=true)](https://github.com/superatomic)
 
-  [![xshe](https://github-readme-stats.vercel.app/api/pin?username=superatomic&show_icons=true&count_private=true&theme=jolly&border_radius=18&repo=xshe&show_owner=true)][Xshe]
-
-</div>
+[![languages](https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&theme=calm&border_radius=18&layout=compact&bg_color=0000&hide_border=true)](https://github.com/superatomic)
 
 **Hi, I’m @superatomic!**
 - I know a lot of Python, and various other programming languages.
@@ -16,9 +14,7 @@
 
 <div align=center>
 
-  [![profile](https://github-readme-stats.vercel.app/api?username=superatomic&theme=calm&border_radius=18&hide=stars&show_icons=true&count_private=true)](https://github.com/superatomic)
-
-  [![languages](https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&count_private=true&theme=calm&border_radius=18&layout=compact)](https://github.com/superatomic)
+  [![xshe](https://github-readme-stats.vercel.app/api/pin?username=superatomic&show_icons=true&count_private=true&theme=jolly&border_radius=18&repo=xshe&show_owner=true)][Xshe]
 
 </div>
 
