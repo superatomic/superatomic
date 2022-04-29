@@ -1,6 +1,6 @@
 [![profile](https://github-readme-stats.vercel.app/api?username=superatomic&theme=calm&border_radius=18&hide=stars&show_icons=true&count_private=true&bg_color=0000&hide_border=true)](https://github.com/superatomic)
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&theme=calm&border_radius=18&layout=compact&bg_color=0000&hide_border=true)](https://github.com/superatomic)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&theme=calm&border_radius=18&layout=compact&bg_color=0000&hide_border=true&langs_count=6)](https://github.com/superatomic)
 
 **Hi, I’m @superatomic!**
 - I know *a lot* of Python 3, and various other programming languages.
