@@ -2,7 +2,7 @@
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&theme=calm&border_radius=18&layout=compact&bg_color=0000&hide_border=true&langs_count=6)](https://github.com/superatomic)
 
-**Hi, I’m superatomic!** I like computers.
+**Hi, I’m [superatomic]!** I like computers.
 - I know *a lot* of Python 3, and various other programming languages.
 - Currently, I've been working with Rust.
   **Check out [Xshe], my new command line tool written fully in Rust!**
@@ -17,4 +17,5 @@
 
 </div>
 
+[superatomic]: https://superatomic.dev
 [Xshe]: https://github.com/superatomic/xshe
