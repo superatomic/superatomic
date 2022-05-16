@@ -11,11 +11,10 @@
   - Pattern matching is the best thing ever.
 - I’m looking to collaborate on various FOSS projects.
 
-<div align=center>
+Notable Projects:
 
-  [![xshe](https://github-readme-stats.vercel.app/api/pin?username=superatomic&show_icons=true&count_private=true&theme=jolly&border_radius=18&repo=xshe&show_owner=true)][Xshe]
-
-</div>
+- [**Xshe** – Cross-Shell Environment Vars][Xshe]
+- [**Homebrew Bundle Extensions**](https://github.com/superatomic/homebrew-bundle-extensions)
 
 [superatomic]: https://superatomic.dev
 [Xshe]: https://github.com/superatomic/xshe
