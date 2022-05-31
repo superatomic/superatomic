@@ -8,8 +8,6 @@
   **Check out [Xshe], my new command line tool written fully in Rust!**
 - I use Unix-based OSs.
 - [My dotfiles][dotfiles].
-- I’m currently learning and working with Scala and Rust.
-  - Pattern matching is the best thing ever.
 - I’m looking to collaborate on various FOSS projects.
 
 Notable Projects:
