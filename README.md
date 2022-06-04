@@ -7,7 +7,6 @@
 - Currently, I've been working with Rust.
   **Check out [Xshe], my new command line tool written fully in Rust!**
 - I use Unix-based OSs.
-- [My dotfiles][dotfiles].
 - I’m looking to collaborate on various FOSS projects.
 
 Notable Projects:
@@ -17,4 +16,3 @@ Notable Projects:
 
 [superatomic]: https://superatomic.dev
 [Xshe]: https://github.com/superatomic/xshe
-[dotfiles]: https://github.com/superatomic/dotfiles
