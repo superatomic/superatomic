@@ -5,14 +5,14 @@
 **Hi, I’m [superatomic]!** I like computers.
 - I know *a lot* of Python, and various other programming languages.
 - Currently, I've been working with Rust.
-  **Check out [Xshe], my new command line tool written fully in Rust!**
+  **Check out [Xshe][xshe.superatomic.dev], my new command line tool written fully in Rust!**
 - I use Unix-based OSs.
 - I’m looking to collaborate on various FOSS projects.
 
 Notable Projects:
 
-- [**Xshe** – Cross-Shell Environment Vars][Xshe]
+- [**Xshe** – Cross-Shell Environment Vars][xshe]
 - [**Homebrew Bundle Extensions**](https://github.com/superatomic/homebrew-bundle-extensions)
 
 [superatomic]: https://superatomic.dev
-[Xshe]: https://github.com/superatomic/xshe
+[xshe]: https://github.com/superatomic/xshe
