@@ -7,7 +7,7 @@
 - Currently, I've been working with Rust.
   **Check out [xshe], my new command line tool written fully in Rust!**
 - I use Unix-based OSs.
-- I’m looking to collaborate on various FOSS projects.
+- I like contributing to FOSS projects.
 
 Notable Projects:
 
