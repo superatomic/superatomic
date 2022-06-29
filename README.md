@@ -3,11 +3,6 @@
 [![languages][stat-languages]][github]
 
 **Hi, I’m [superatomic]!** I like computers.
-- I know *a lot* of Python, and various other programming languages.
-- Currently, I've been working with Rust.<br />
-  **Check out [xshe], my new command-line tool written fully in Rust!**
-- I use Unix-based OSs.
-- I like contributing to FOSS projects.
 
 Notable Projects:
 
