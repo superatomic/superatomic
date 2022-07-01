@@ -1,6 +1,6 @@
-[![profile][stat-profile]][github]
+![profile][stat-profile]
 
-[![languages][stat-languages]][github]
+![languages][stat-languages]
 
 **Hi, I’m [superatomic]!** I like computers.
 
