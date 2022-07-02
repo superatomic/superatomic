@@ -6,8 +6,8 @@
 
 Notable Projects:
 
-- [**Xshe** – Cross-Shell Environment Vars][xshe-gh]
-- [**Homebrew Bundle Extensions**][bundle-ext]
+- [🐚 **Xshe** – Cross-Shell Environment Vars][xshe-gh]
+- [🗄 **Homebrew Bundle Extensions**][bundle-ext]
 
 [superatomic]: https://superatomic.dev
 [github]: https://github.com/superatomic
