@@ -8,6 +8,7 @@
 
   [![icon-gh]][github]
   [![icon-gl]][gitlab]
+  [![icon-web]][superatomic]
 
 </div>
 
@@ -28,3 +29,4 @@ Notable Projects:
 
 [icon-gh]: https://img.shields.io/badge/-GitHub-2ea44f?logo=github&logoColor=white
 [icon-gl]: https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white
+[icon-web]: https://img.shields.io/badge/-superatomic-51CB20
