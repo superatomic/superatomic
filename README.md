@@ -4,13 +4,9 @@
 
 **Hi, I’m [superatomic]!** I like computers.
 
-<div align="center">
-
-  [![icon-gh]][github]
-  [![icon-gl]][gitlab]
-  [![icon-web]][superatomic]
-
-</div>
+[![icon-gh]][github]
+[![icon-gl]][gitlab]
+[![icon-web]][superatomic]
 
 Notable Projects:
 
