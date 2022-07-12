@@ -13,6 +13,10 @@ Notable Projects:
 - [🐚 **Xshe** – Cross-Shell Environment Vars][xshe-gh]
 - [🗄 **Homebrew Bundle Extensions**][bundle-ext]
 
+Contributions:
+
+- I've added `nb`, `eget`, `xdg-ninja`, `licensor`, and `dooit` to [Homebrew](https://brew.sh).
+
 [superatomic]: https://superatomic.dev
 [github]: https://github.com/superatomic
 [gitlab]: https://gitlab.com/superatomic
