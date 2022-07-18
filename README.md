@@ -16,6 +16,7 @@ Notable Projects:
 Contributions:
 
 - I've added `nb`, `eget`, `xdg-ninja`, `licensor`, and `dooit` to [Homebrew](https://brew.sh).
+- I've added some pages to [tldr-pages](https://github.com/tldr-pages/tldr).
 
 [superatomic]: https://superatomic.dev
 [github]: https://github.com/superatomic
