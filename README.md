@@ -4,9 +4,9 @@
 
 **Hi, I’m [superatomic]!** I like computers.
 
-[![icon-gh]][github]
-[![icon-gl]][gitlab]
-[![icon-web]][superatomic]
+[GitHub][github] •
+[GitLab][gitlab] •
+[Homepage][superatomic]
 
 Notable Projects:
 
@@ -27,7 +27,3 @@ Contributions:
 
 [stat-profile]: https://github-readme-stats.vercel.app/api?username=superatomic&theme=calm&border_radius=18&show_icons=true&count_private=true&bg_color=0000&hide_border=true&disable_animations=true&hide_rank=true
 [stat-languages]: https://github-readme-stats.vercel.app/api/top-langs?username=superatomic&theme=calm&border_radius=18&layout=compact&bg_color=0000&hide_border=true&langs_count=6
-
-[icon-gh]: https://img.shields.io/badge/-GitHub-2ea44f?logo=github&logoColor=white
-[icon-gl]: https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white
-[icon-web]: https://img.shields.io/badge/-superatomic-9B21CC
