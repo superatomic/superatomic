@@ -4,9 +4,7 @@
 
 **Hi, I’m [superatomic]!** I like computers.
 
-[GitHub][github] •
-[GitLab][gitlab] •
-[Homepage][superatomic]
+[GitHub][github] • [GitLab][gitlab] • [Homepage][superatomic]
 
 Notable Projects:
 
