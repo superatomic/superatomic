@@ -8,6 +8,7 @@
 
 Notable Projects:
 
+- [📚 **TLDR Man Client**][tldr-gh]
 - [🐚 **Xshe** – Cross-Shell Environment Vars][xshe-gh]
 - [🗄 **Homebrew Bundle Extensions**][bundle-ext]
 
@@ -20,6 +21,7 @@ Contributions:
 [github]: https://github.com/superatomic
 [gitlab]: https://gitlab.com/superatomic
 [xshe]: https://xshe.superatomic.dev
+[tldr-gh]: https://github.com/superatomic/tldr-man-client
 [xshe-gh]: https://github.com/superatomic/xshe
 [bundle-ext]: https://github.com/superatomic/homebrew-bundle-extensions
 
