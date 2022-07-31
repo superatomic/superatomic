@@ -14,8 +14,15 @@ Notable Projects:
 
 Contributions:
 
-- I've added `nb`, `eget`, `dooit`, `xdg-ninja`, `licensor`, and `tere` to [Homebrew](https://brew.sh).
+- I've added [`nb`], [`eget`], [`dooit`], [`xdg-ninja`], [`licensor`], and [`tere`] to [Homebrew](https://brew.sh).
 - I've added some pages to [tldr-pages](https://github.com/tldr-pages/tldr).
+
+[`nb`]: https://github.com/xwmx/nb
+[`eget`]: https://github.com/zyedidia/eget
+[`dooit`]: https://github.com/kraanzu/dooit
+[`xdg-ninja`]: https://github.com/b3nj5m1n/xdg-ninja
+[`licensor`]: https://github.com/raftario/licensor
+[`tere`]: https://github.com/mgunyho/tere
 
 [superatomic]: https://superatomic.dev
 [github]: https://github.com/superatomic
