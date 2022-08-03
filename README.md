@@ -15,7 +15,7 @@ Notable Projects:
 Contributions:
 
 - I've added [`nb`], [`eget`], [`dooit`], [`xdg-ninja`], [`licensor`], and [`tere`] to [Homebrew](https://brew.sh).
-- I've added some pages to [tldr-pages](https://github.com/tldr-pages/tldr).
+- I've added [some pages][tldr-pages-added] to [tldr-pages](https://github.com/tldr-pages/tldr).
 
 [`nb`]: https://github.com/xwmx/nb
 [`eget`]: https://github.com/zyedidia/eget
@@ -23,6 +23,8 @@ Contributions:
 [`xdg-ninja`]: https://github.com/b3nj5m1n/xdg-ninja
 [`licensor`]: https://github.com/raftario/licensor
 [`tere`]: https://github.com/mgunyho/tere
+
+[tldr-pages-added]: https://github.com/tldr-pages/tldr/pulls?q=author%3Asuperatomic+is%3Amerged+add+page
 
 [superatomic]: https://superatomic.dev
 [github]: https://github.com/superatomic
