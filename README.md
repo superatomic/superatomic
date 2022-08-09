@@ -14,8 +14,8 @@ Notable Projects:
 
 Contributions:
 
-- I've added [`nb`], [`eget`], [`dooit`], [`xdg-ninja`], [`licensor`], and [`tere`] to [Homebrew](https://brew.sh).
-- I've added [some pages][tldr-pages-added] to [tldr-pages](https://github.com/tldr-pages/tldr).
+- I've added [`nb`], [`eget`], [`dooit`], [`xdg-ninja`], [`licensor`], and [`tere`] to [**Homebrew**](https://brew.sh).
+- I've added [some pages][tldr-pages-added] to [**tldr-pages**](https://github.com/tldr-pages/tldr).
 
 [`nb`]: https://github.com/xwmx/nb
 [`eget`]: https://github.com/zyedidia/eget
