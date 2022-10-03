@@ -8,8 +8,8 @@
 
 Notable Projects:
 
-- [📚 **TLDR Man Client**][tldr-gh] *(New!)*
 - [🐚 **Xshe** – Cross-Shell Environment Vars][xshe-gh]
+- [📚 **TLDR Man Client**][tldr-gh] *(New!)*
 - [🗄 **Homebrew Bundle Extensions**][bundle-ext]
 
 Contributions:
