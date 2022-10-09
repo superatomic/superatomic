@@ -4,7 +4,7 @@
 
 **Hi, I’m [superatomic]!** I like computers.
 
-[**Say Thanks!**](https://saythanks.io/to/superatomic) • [Website][superatomic] • [GitHub][github] • [GitLab][gitlab]
+[**Say Thanks!**](https://saythanks.io/to/superatomic) • [Website][superatomic] • [GitHub][github] • [GitLab][gitlab] • [Dotfiles](https://github.com/superatomic/dotfiles)
 
 Notable Projects:
 
