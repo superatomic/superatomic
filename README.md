@@ -4,12 +4,12 @@
 
 **Hi, I’m [superatomic]!** I like computers.
 
-[**Say Thanks!**](https://saythanks.io/to/superatomic) • [Homepage][superatomic] • [GitLab][gitlab] • [Dotfiles](https://github.com/superatomic/dotfiles)
+I have 8 years of experience (and counting!) with using Python. I also develop using other languages.
 
 Notable Projects:
 
-- [🐚 **Xshe** – Cross-Shell Environment Variables][xshe-gh] *(in development!)*
-- [📚 **TLDR Man Client**][tldr-gh] *(new!)*
+- [📚 **TLDR Man Client**][tldr-gh]
+- [🐚 **Xshe** – Cross-Shell Environment Variables][xshe-gh]
 - [🗄 **Homebrew Bundle Extensions**][bundle-ext]
 
 Contributions:
