@@ -14,6 +14,7 @@ Notable Projects:
 
 Contributions:
 
+- I've added type hints to [**click-help-colors**](https://github.com/click-contrib/click-help-colors).
 - I've added [`nb`], [`eget`], [`dooit`], [`xdg-ninja`], [`licensor`], and [`tere`] to [**Homebrew**](https://brew.sh).
 - I've added [some pages][tldr-pages-added] to [**tldr-pages**](https://github.com/tldr-pages/tldr).
 
