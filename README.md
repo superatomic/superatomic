@@ -6,6 +6,8 @@
 
 I have 8 years of experience (and counting!) with using Python. I also develop using other languages.
 
+Contact me on Matrix at [@atomic:envs.net](https://matrix.to/#/@atomic:envs.net) or send an email to contact@superatomic.dev.
+
 Notable Projects:
 
 - [📚 **TLDR Man Client**][tldr-gh]
