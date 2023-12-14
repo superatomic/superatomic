@@ -1,7 +1,3 @@
-![profile][stat-profile]
-
-![languages][stat-languages]
-
 **Hi, I’m [superatomic]!** I like computers.
 
 I have 8 years of experience (and counting!) with using Python. I also develop using other languages.
@@ -19,6 +15,10 @@ Contributions:
 - I've added type hints to [**click-help-colors**](https://github.com/click-contrib/click-help-colors).
 - I've added [`nb`], [`eget`], [`dooit`], [`xdg-ninja`], [`licensor`], and [`tere`] to [**Homebrew**](https://brew.sh).
 - I've added [some pages][tldr-pages-added] to [**tldr-pages**](https://github.com/tldr-pages/tldr).
+
+![profile][stat-profile]
+
+![languages][stat-languages]
 
 [`nb`]: https://github.com/xwmx/nb
 [`eget`]: https://github.com/zyedidia/eget
