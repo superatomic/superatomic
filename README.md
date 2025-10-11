@@ -1,7 +1,5 @@
 **Hi, I’m [superatomic]!** I like computers.
 
-I have 8 years of experience (and counting!) with using Python. I also develop using other languages.
-
 Notable Projects:
 
 - [📚 **TLDR Man Client**][tldr-gh]
